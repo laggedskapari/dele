@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836669876961",
+    "project_id": "dele-6f9df",
+    "storage_bucket": "dele-6f9df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836669876961:android:ce84a853ef961f1d8fa5a0",
+        "android_client_info": {
+          "package_name": "com.laggedskapari.dele"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzPWp5vX85djXihO-STtwSXgXDIcY0i94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
